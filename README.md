@@ -61,7 +61,7 @@
 
 ---
 
-### 🔹 Crop Yield Forecasting (ISI Research Internship - Upcoming)
+### 🔹 Crop Yield Forecasting (ISI Research Internship )
 - Selected as **Research Intern at ISI Kolkata (Summer 2025)**.  
 - Working on **forecasting crop yields** using climatic & agricultural datasets.  
 - Applying **ANN, LSTM, and RNN models** in TensorFlow/Keras.  
