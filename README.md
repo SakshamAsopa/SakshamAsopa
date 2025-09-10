@@ -11,7 +11,7 @@
 - 🔭 Currently exploring **Deep Learning, NLP, and PyTorch**  
 - 📊 Experienced in **Exploratory Data Analysis (EDA), Data Visualization, and Statistics**  
 - 🧑‍🔬 Selected as **Research Intern at ISI Kolkata (Summer 2025)** — working on **Crop Yield Forecasting using Deep Learning**  
-- 🚀 Built projects like **Customer Churn Prediction** (92% F1-score) and **Car Price Estimation** (15% improved accuracy)  
+- 🚀 Built multiple projects in **Machine Learning, Deep Learning, and Analytics**  
 - 💡 Passionate about solving real-world problems using **AI and Data-Driven Solutions**  
 
 ---
@@ -44,27 +44,34 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Customer Churn Prediction](https://github.com/SakshamAsopa)  
-- Built an **Artificial Neural Network (ANN)** to predict customer churn  
-- Processed **10k+ records**, applied feature engineering & hyperparameter tuning  
-- Achieved **92% F1-score** with dropout & batch normalization  
-- Deployed with **Flask API + Streamlit dashboard** for real-time prediction  
-
-### 🔹 [Car Price Prediction](https://github.com/SakshamAsopa)  
-- Developed regression models for price estimation using **50k+ records**  
-- Cleaned dataset, handled outliers, reduced skewness  
-- Compared **Linear, Ridge, Lasso, Decision Tree, Random Forest** models  
-- Achieved **15% performance boost** with GridSearchCV  
-- Deployed with **Streamlit**  
+### 🔹 Customer Churn Prediction
+- Developed an **ANN model** to predict customer churn with **10,000+ records**.  
+- Applied **feature engineering, encoding, and hyperparameter tuning**.  
+- Achieved **92% F1-score** with dropout & batch normalization.  
+- Integrated model with **Flask API + Streamlit dashboard** for real-time prediction.  
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 Car Price Prediction
+- Built regression models for car price estimation with **50,000+ records**.  
+- Cleaned dataset, handled outliers, reduced skewness for better accuracy.  
+- Compared **Linear, Ridge, Lasso, Decision Tree, Random Forest**.  
+- Achieved **15% performance boost** with GridSearchCV.  
+- Deployed with **Streamlit** for interactive use.  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamAsopa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamAsopa&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+---
+
+### 🔹 Crop Yield Forecasting (ISI Research Internship - Upcoming)
+- Selected as **Research Intern at ISI Kolkata (Summer 2025)**.  
+- Working on **forecasting crop yields** using climatic & agricultural datasets.  
+- Applying **ANN, LSTM, and RNN models** in TensorFlow/Keras.  
+- Engineering features like rainfall, temperature, and growing season indicators.  
+- Aim: support **agricultural planning & decision-making**.  
+
+---
+
+### 🔹 [Any Other Projects You Want to Add?]
+👉 If you have more repos (like small ML/DS notebooks, visualizations, Kaggle competitions), we can polish and add them here.  
 
 ---
 
