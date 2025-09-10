@@ -70,10 +70,6 @@
 
 ---
 
-### 🔹 [Any Other Projects You Want to Add?]
-👉 If you have more repos (like small ML/DS notebooks, visualizations, Kaggle competitions), we can polish and add them here.  
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
